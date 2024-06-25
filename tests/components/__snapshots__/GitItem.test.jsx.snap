@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en GitItem debe hacer match con el snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="One punch"
+      src="https://static.wikia.nocookie.net/onepunchman/images/8/85/Saitama_render.png/revision/latest/scale-to-width-down/248?cb=20191029171106&path-prefix=es"
+    />
+    <p>
+      One punch
+    </p>
+  </div>
+</div>
+`;
